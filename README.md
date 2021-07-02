@@ -51,7 +51,7 @@ fib = (n) =>
 print(fib(9))
 ```
 
-##Precizări legate de structură
+## Precizări legate de structură
 
 Acest limbaj nu utilizează următoarele două caractere ",", ";", deci nu le recunoaște.
 Instrucțiunile repetitive nu pot fi utilizate în modul cunoscut anterior. Nu există
