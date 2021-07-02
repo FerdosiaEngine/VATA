@@ -60,7 +60,10 @@ Limbajul VATA îți lasă posibilitatea de a crea propriile tale funcții și de
 diferite scopuri. Lista funcțiilor prestabilite:
 
 ```
+//funcții matematice
 add(), concat(), multiply(), subtract(), divide(), modulus(), sqrt(), pow(),
+
+//alte funcții
 print(), eq(), if(), or(), at(), repeat(), etc.
 ```
 
