@@ -1,0 +1,15 @@
+Licență drepturi de autor (c) <2021> <Ferdosia Engine>
+
+Se acordă permisiune fără restricții, oricărei persoane ce obține o copie a acestui 
+cod și a fișierelor asociate codului, în scopul de utilizare, modificare, publicare,
+distribuire, și permiterea altor persoane cărora le este oferit să facă acest lucru, 
+sub rezerva următoarelor condiții:
+
+Precizarea privind drepturile de autor și actuala notificare vor fi incluse în toate
+copiile sau porțiunile substanțiale ale codului și ale fișierelor asociate.
+
+CODUL ESTE FURNIZAT „CA ATARE” FĂRĂ GARANȚIE DE NICIUN FEL. NU ESTE RECOMANDATĂ 
+MODIFICAREA CODULUI ÎN LIPSA CUNOȘTIINȚELOR MINIME NECESARE ÎNȚELEGERII SALE. UNELE 
+COMPONENTE NU ÎȘI POT MODIFICA ORDINEA. AUTORII SAU DEȚINĂTORII DE DREPTURI DE AUTOR 
+NU SUNT RESPONSABILI PENTRU EVENTUALELE REVENDICĂRI ȘI DAUNE ÎN LEGĂTURĂ CU UTILIZAREA.
+
