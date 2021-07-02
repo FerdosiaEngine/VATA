@@ -60,8 +60,7 @@ Limbajul VATA îți lasă posibilitatea de a crea propriile tale funcții și de
 diferite scopuri. Lista funcțiilor prestabilite:
 
 ```
-print(), add(), concat(), multiply(), subtract(), divide(), modulus(), sqrt(), pow(),
-eq(), if(), or(), at(), repeat(), etc.
+print(), add(), concat(), multiply(), subtract(), divide(), modulus(), sqrt(), pow(), eq(), if(), or(), at(), repeat(), etc.
 ```
 
 ## Versiune și conținut folder VATA
