@@ -71,7 +71,10 @@ print(), eq(), if(), or(), at(), repeat(), etc.
 
 Actuala versiune a limbajului de programare este trecută în denumirea folderului ce
 conține filele necesare rulării. Pentru o funcționare corectă a limbajului, fișierele
-ce se află în folderul VATA_modules nu pot fi modificate.
+ce se află în folderul VATA_modules nu pot fi modificate. În timpul utilizării comenzilor,
+mai multe file necesare interpretării limbajului și afișării rezultatelor vor fi create.
+Acestea sunt stocate automat în folderul VATA_ast_js, fapt pentru care eliminarea lui nu
+este permisă. Totuși, toate filele din acesta pot fi șterse. 
 
 ## Mod de utilizare
 
