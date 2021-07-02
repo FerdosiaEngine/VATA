@@ -72,7 +72,7 @@ ce se află în folderul VATA_modules nu pot fi modificate.
 ## Mod de utilizare
 
 Este necesară instalarea Node.js. Acesta este un mediu de execuție JavaScript, ce rulează
-cod în afara unui browser web. Următorul link duce către Node.js: (https://nodejs.org/en/).
+cod în afara unui browser web. https://nodejs.org/en/
 
 După instalarea Node.js și descărcarea folderului VATA ce conține filele necesare rulării
 este recomandată deschiderea panoului de comandă. În acest panou de comandă se introduce
