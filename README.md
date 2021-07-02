@@ -60,7 +60,8 @@ Limbajul VATA îți lasă posibilitatea de a crea propriile tale funcții și de
 diferite scopuri. Lista funcțiilor prestabilite:
 
 ```
-print(), add(), concat(), multiply(), subtract(), divide(), modulus(), sqrt(), pow(), eq(), if(), or(), at(), repeat(), etc.
+add(), concat(), multiply(), subtract(), divide(), modulus(), sqrt(), pow(),
+print(), eq(), if(), or(), at(), repeat(), etc.
 ```
 
 ## Versiune și conținut folder VATA
@@ -101,4 +102,6 @@ node run.js ../ex1.vata
 Pentru a afișa rezultatul codului, este necesar ca fila să existe în locația specificată
 și să fie scrisă conform regulilor limbajului de programare VATA.
 
-# Ferdosia Engine
+## Ferdosia Engine
+
+VATA: https://github.com/FerdosiaEngine/VATA
