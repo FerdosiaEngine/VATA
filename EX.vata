@@ -1,0 +1,32 @@
+print("Hello world")
+print("15 + 6 =" add(15 6))
+
+test = (subject) => {
+    print(concat("Hello, " subject " !"))
+}
+
+doIt = () => {
+    print("Hy!")
+}
+
+doIt()
+
+test("John")
+
+//Acesta este un comentariu.
+
+fib = (n) =>
+    if(eq(n 1)
+        () => 1
+        () =>
+            if(eq(n 2)
+                () => 1
+                () =>
+                    add(
+                        fib(subtract(n 1))
+                        fib(subtract(n 2))
+                    )
+            )
+        )
+
+print(fib(9))
