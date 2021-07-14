@@ -74,12 +74,12 @@ conține filele necesare rulării. Pentru o funcționare corectă a limbajului, 
 ce se află în folderul VATA_modules nu pot fi modificate. În timpul utilizării comenzilor,
 mai multe file necesare interpretării limbajului și afișării rezultatelor vor fi create.
 Acestea sunt stocate automat în folderul VATA_ast_js, fapt pentru care eliminarea lui nu
-este permisă. Totuși, toate filele din acesta pot fi șterse. 
+este permisă. Totuși, toate filele din acesta pot fi șterse.
 
 ## Mod de utilizare
 
 Este necesară instalarea Node.js. Acesta este un mediu de execuție JavaScript, ce rulează
-cod în afara unui browser web. nodejs.org/en/
+cod în afara unui browser web. https://nodejs.org/en/
 
 După instalarea Node.js și descărcarea folderului VATA ce conține filele necesare rulării
 este recomandată deschiderea panoului de comandă. În acest panou de comandă se introduce
