@@ -102,11 +102,11 @@ Următoarea comandă se ocupă de rularea unei file numite EXP.vata, aflată în
 exteriorul folderului VATA_modules:
 
 ```
-node run.js ../ex1.vata
+node run.js ../EXP.vata
 ```
 
 Pentru a afișa rezultatul codului, este necesar ca fila să existe în locația specificată
-și să fie scrisă conform regulilor limbajului de programare VATA.
+și să fie scrisă conform regulilor limbajului VATA.
 
 ## Ferdosia Engine
 
