@@ -79,7 +79,7 @@ este permisă. Totuși, toate filele din acesta pot fi șterse.
 ## Mod de utilizare
 
 Este necesară instalarea Node.js. Acesta este un mediu de execuție JavaScript, ce rulează
-cod în afara unui browser web. https://nodejs.org/en/
+cod în afara unui browser web. nodejs.org/en/
 
 După instalarea Node.js și descărcarea folderului VATA ce conține filele necesare rulării
 este recomandată deschiderea panoului de comandă. În acest panou de comandă se introduce
