@@ -1,0 +1,75 @@
+//Modalitate de afișare rezultate
+print("Hello world")
+
+//Metodă lambda de concatenare
+test = (subject) => {
+    print(concat("Hello, " subject ))
+}
+
+//Metodă lambda de afișare
+doIt = () => {
+    print("Hy!")
+}
+
+doIt()
+
+test("John")
+
+//Acesta este un comentariu.
+
+//Șirul lui Fibonacci
+fib = (n) =>
+    if(eq(n 1)
+        () => 1
+        () =>
+            if(eq(n 2)
+                () => 1
+                () =>
+                    add(
+                        fib(subtract(n 1))
+                        fib(subtract(n 2))
+                    )
+            )
+        )
+
+
+print(fib(9))
+
+
+//Introducerea unui număr sau a unui text
+prompt = require("prompt-sync")()
+a = prompt("Valoare introdusă (n): ")
+
+//Funcția parseInt asigură intrarea ca fiind număr
+n = parseInt(a 10)
+
+//Operațiuni matematice cu numărul introdus
+print("10 + n =" add(10 n))
+print("10 - n =" subtract(10 n))
+print("10 * n =" multiply(10 n))
+print("10 / n =" divide(10 n))
+print("10 % n =" modulus(10 n))
+print("10 ^ n =" pow(10 n))
+
+print("sqrt n =" sqrt(n))
+print("10 = n" eq(10 n))
+
+
+//Număr aleatoriu 1-9
+print("Random = " rand())
+
+//Comparare 2 numere predefinite
+a = 2
+b = 7
+
+compare = () =>
+    if(eq(a b)
+        () => print("a = 2, b = 7 => a = b")
+        () =>
+            if(greater(a b)
+                () => print("a = 2, b = 7 => a > b")
+                () => print("a = 2, b = 7 => a < b")
+            )
+        )
+
+compare()
