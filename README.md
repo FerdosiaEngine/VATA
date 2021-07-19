@@ -122,7 +122,8 @@ print(), if(), or(), at(), repeat(), etc.
 Actuala versiune a limbajului de programare: VATA 1.4
 
 Mărimea actualului folder VATA (incluzând toate filele necesare rulării) este de aproximativ
-406 kb, iar varianta comprimată a acestuia are aproximativ 171 kb.
+406 kb, iar varianta comprimată a acestuia are aproximativ 171 kb. Asta înseamnă că acest 
+limbaj ocupă un spațiu de stocare de 12 ori mai mic decât cel al unei poze. 
 
 Pentru o funcționare corectă a limbajului, fișierele "package.json", "package-lock.json" și
 cele ce se află în folderele VATA_modules nu pot fi modificate. În timpul utilizării comenzilor,
