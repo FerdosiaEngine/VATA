@@ -3,7 +3,7 @@
 VATA este un mic limbaj de programare creat după modelul limbajului smallang, fiind derivat
 din JavaScript. Dezvoltator: Klaus Bluseng.
 
-<div style="text-align:center">
+<div style="text-align:center"><img src="..." />
 ![VATA 1.4](https://github.com/FerdosiaEngine/VATA/blob/main/VATA_1.4.3.png?raw=true)
 </div>
 
