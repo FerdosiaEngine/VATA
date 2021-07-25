@@ -5,7 +5,7 @@ din JavaScript. Dezvoltator: Klaus Bluseng.
 
 <br>
 <p align="center">
-  <img src="https://github.com/FerdosiaEngine/VATA/blob/main/logo.png?raw=true">
+  <img src="https://github.com/FerdosiaEngine/VATA/blob/main/1.5.png?raw=true">
 </p>
 
 ## Caracteristici
