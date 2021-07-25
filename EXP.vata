@@ -59,17 +59,14 @@ print("10 = n" eq(10 n))
 print("Random = " rand())
 
 //Comparare 2 numere predefinite
-a = 2
-b = 7
-
-compare = () =>
+compare = (a b) =>
     if(eq(a b)
-        () => print("a = 2, b = 7 => a = b")
+        () => print(a "=" b "=> a = b")
         () =>
             if(greater(a b)
-                () => print("a = 2, b = 7 => a > b")
-                () => print("a = 2, b = 7 => a < b")
+                () => print(a ">" b "=> a > b")
+                () => print(a "<" b "=> a < b")
             )
         )
 
-compare()
+compare(3 7)
