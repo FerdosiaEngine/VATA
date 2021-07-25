@@ -84,20 +84,17 @@ print("10 = n" eq(10 n))
 print("Random = " rand())
 
 //Comparare 2 numere predefinite
-a = 2
-b = 7
-
-compare = () =>
+compare = (a b) =>
     if(eq(a b)
-        () => print("a = 2, b = 7 => a = b")
+        () => print(a "=" b "=> a = b")
         () =>
             if(greater(a b)
-                () => print("a = 2, b = 7 => a > b")
-                () => print("a = 2, b = 7 => a < b")
+                () => print(a ">" b "=> a > b")
+                () => print(a "<" b "=> a < b")
             )
         )
 
-compare()
+compare(3 7)
 ```
 
 ## Precizări legate de structură
@@ -119,7 +116,7 @@ print(), if(), or(), at(), repeat(), input(), etc.
 
 ## Versiune și conținut folder VATA
 
-Actuala versiune a limbajului de programare: VATA 1.4.2
+Actuala versiune a limbajului de programare: VATA 1.5
 
 Mărimea actualului folder VATA (incluzând toate filele necesare rulării) este de aproximativ
 407 kb, iar varianta comprimată a acestuia are aproximativ 172 kb. Asta înseamnă că acest
@@ -175,8 +172,8 @@ Pentru afișare este necesară redeschiderea panoului de comandă și rularea ur
 node ../VATA_ast_js/EXP.js
 ```
 
-Această problemă încă se află în proces de investigare. Klaus Bluseng.
+Această problemă a apărut după versiunea VATA 1.4 și încă se află în proces de investigare.
 
 ## Ferdosia Engine
 
-VATA 1.4.2: https://github.com/FerdosiaEngine/VATA
+VATA 1.5: https://github.com/FerdosiaEngine/VATA
