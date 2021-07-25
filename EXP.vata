@@ -37,8 +37,8 @@ print(fib(9))
 
 
 //Introducerea unui număr sau a unui text
-prompt = require("prompt-sync")()
-a = prompt("Valoare introdusă (n): ")
+insert = input()
+a = insert("Introdu un număr: ")
 
 //Funcția parseInt asigură intrarea ca fiind număr
 n = parseInt(a 10)
