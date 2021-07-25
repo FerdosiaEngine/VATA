@@ -62,8 +62,8 @@ print(fib(9))
 
 
 //Introducerea unui număr sau a unui text
-prompt = require("prompt-sync")()
-a = prompt("Valoare introdusă (n): ")
+insert = input()
+a = insert("Introdu un număr: ")
 
 //Funcția parseInt asigură intrarea ca fiind număr
 n = parseInt(a 10)
@@ -114,16 +114,16 @@ add(), concat(), multiply(), subtract(), divide(), modulus(), sqrt(), pow(), eq(
 greater(), less(), rand(),
 
 //alte funcții
-print(), if(), or(), at(), repeat(), etc.
+print(), if(), or(), at(), repeat(), input(), etc.
 ```
 
 ## Versiune și conținut folder VATA
 
-Actuala versiune a limbajului de programare: VATA 1.4
+Actuala versiune a limbajului de programare: VATA 1.4.2
 
 Mărimea actualului folder VATA (incluzând toate filele necesare rulării) este de aproximativ
-406 kb, iar varianta comprimată a acestuia are aproximativ 171 kb. Asta înseamnă că acest 
-limbaj ocupă un spațiu de stocare de 12 ori mai mic decât cel al unei poze. 
+407 kb, iar varianta comprimată a acestuia are aproximativ 172 kb. Asta înseamnă că acest
+limbaj ocupă un spațiu de stocare de 12 ori mai mic decât cel al unei poze.
 
 Pentru o funcționare corectă a limbajului, fișierele "package.json", "package-lock.json" și
 cele ce se află în folderele VATA_modules nu pot fi modificate. În timpul utilizării comenzilor,
@@ -179,4 +179,4 @@ Această problemă încă se află în proces de investigare. Klaus Bluseng.
 
 ## Ferdosia Engine
 
-VATA 1.4: https://github.com/FerdosiaEngine/VATA
+VATA 1.4.2: https://github.com/FerdosiaEngine/VATA
